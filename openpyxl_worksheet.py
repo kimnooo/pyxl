@@ -116,3 +116,6 @@ for a_shop in shop_list:
             a_detail_list["sum"]=a_detail[9]
             a_detail_list["tax"]=a_detail[10]
 """
+
+
+
